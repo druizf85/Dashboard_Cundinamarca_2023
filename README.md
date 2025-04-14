@@ -74,8 +74,8 @@ https://app.powerbi.com/view?r=eyJrIjoiMTdiMWNhYjItNDY0OS00M2E2LTk3YTctYWEwZWI1N
 
 Resultados y logros
 
-✅ Se estandarizaron los reportes y monitoreos de contratación para las 23 dependencias del nivel central.
-✅ Se redujo la dependencia de hojas de cálculo desactualizadas y poco confiables.
-✅ Se implementó un proceso ETL replicable y adaptable para futuras vigencias.
-✅ Se habilitó el acceso abierto a la ciudadanía y entes de control a través de Power BI.
-✅ Se generaron insumos clave para auditorías, informes de gestión y alertas internas.
+- Se estandarizaron los reportes y monitoreos de contratación para las 23 dependencias del nivel central.
+- Se redujo la dependencia de hojas de cálculo desactualizadas y poco confiables.
+- Se implementó un proceso ETL replicable y adaptable para futuras vigencias.
+- Se habilitó el acceso abierto a la ciudadanía y entes de control a través de Power BI.
+- Se generaron insumos clave para auditorías, informes de gestión y alertas internas.

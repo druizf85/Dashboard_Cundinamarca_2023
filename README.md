@@ -1,4 +1,4 @@
-Caso de Éxito: Inteligencia de Datos para la Contratación Estatal en la Gobernación de Cundinamarca
+Caso de Éxito: Integración de Datos para la Contratación Estatal en la Gobernación de Cundinamarca
 
 En el año 2023, la Gobernación de Cundinamarca, a través de su Secretaría Jurídica, enfrentaba un reto común en muchas entidades estatales: contar con una visión unificada, transparente y en tiempo real de los procesos de contratación pública ejecutados por las 23 dependencias del nivel centralizado.
 

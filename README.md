@@ -4,14 +4,12 @@ En el año 2023, la Gobernación de Cundinamarca, a través de su Secretaría Ju
 
 A pesar de que la información era pública y estaba disponible en plataformas como el SECOP I, SECOP II y la Tienda Virtual del Estado Colombiano (TVEC), acceder a ella de forma estructurada y útil para la toma de decisiones era una tarea compleja. Cada dependencia publicaba y gestionaba sus procesos contractuales con criterios y ritmos distintos, lo que dificultaba la estandarización, el seguimiento gerencial y el control social.
 
-Se identificó la necesidad de crear herramientas analíticas inteligentes que permitieran:
+Se identificó la necesidad de crear herramientas analíticas que permitieran:
 
-- Visualizar el estado de cada proceso contractual.
-- Identificar cuellos de botella y tiempos de respuesta.
+- Visualizar dentro de la plataforma SECOP II el estado de cada proceso contractual y contrataciones realizadas históricamente.
+- Identificar cuellos de botella y tiempos de ejecución de tareas.
 - Realizar seguimiento a la ejecución de los planes anuales de adquisiciones.
 - Entregar información consolidada y confiable a entes de control, ciudadanía, proveedores y directivos.
-
-Solución: La creación de tableros de control con analítica en tiempo real
 
 Con un equipo multidisciplinario con experiencia en contratación estatal, ciencia de datos y visualización analítica, se implementó una solución basada en tres puntos:
 
@@ -49,7 +47,7 @@ Integra datos de SECOP I, SECOP II y TVEC. Permite analizar de manera retrospect
 - Participación por plataforma.
 - Clasificación UNSPSC por valor y cantidad.
 - Estados de los contratos a lo largo del periodo.
-- 
+
 ![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/763fa210-d4c2-499a-9416-be4c26f8be15)
 ![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/fe09dff0-2599-4412-beeb-c33e2347e7fe)
 ![image](https://github.com/druizf85/Tableros-de-control---Gobernaci-n-de-Cundinamarca/assets/121362745/229120e2-1d89-4ff3-b499-652f17713505)
@@ -60,7 +58,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMjI4NDFmN2ItM2I5Yy00ZDNmLWIwMzUtMzM0ZDZmY
 
 3.	TABLERO DE CONTROL – PLANES ANUALES DE ADQUISICIONES VIGENCIA ACTUAL
 
-Este tablero permite comparar en tiempo real las necesidades declaradas por cada dependencia en sus PAA frente a los procesos realmente publicados en SECOP II. Entre sus visualizaciones:
+Este tablero permite comparar en tiempo real las necesidades por cada dependencia en sus PAA frente a los procesos realmente publicados en SECOP II. Entre sus visualizaciones:
 
 - Valor estimado vs valor publicado.
 - Número de versiones de PAA por dependencia.
@@ -74,7 +72,7 @@ Este tablero se encuentra actualmente publicado en el siguiente enlace:
 
 https://app.powerbi.com/view?r=eyJrIjoiMTdiMWNhYjItNDY0OS00M2E2LTk3YTctYWEwZWI1NzA1YTg3IiwidCI6IjY0ZjMwZDYzLTE4MjctNDlkOC05OTUxLTFkYjE3ZDA5NDllNCJ9 
 
-Resultados y logros
+#Resultados y logros
 
 ✅ Se estandarizaron los reportes y monitoreos de contratación para las 23 dependencias del nivel central.
 ✅ Se redujo la dependencia de hojas de cálculo desactualizadas y poco confiables.

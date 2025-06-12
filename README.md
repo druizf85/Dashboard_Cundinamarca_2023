@@ -19,7 +19,7 @@ Con un equipo multidisciplinario con experiencia en contratación estatal, cienc
 
 Este enfoque dio lugar a los siguientes tableros de control:
 
-1.	TABLERO DE CONTROL SEGUIMIENTO A PROCESOS DE CONTRATACIÓN PUBLICADOS
+1.	INFORME - SEGUIMIENTO A PROCESOS DE CONTRATACIÓN PUBLICADOS
 
 Este tablero permite consultar a diario el estado de los procesos de contratación publicados en SECOP II. Muestra visualizaciones como:
 
@@ -38,7 +38,7 @@ Este tablero se encuentra actualmente publicado en el siguiente enlace:
 
 https://app.powerbi.com/view?r=eyJrIjoiMDBlMjBiZDItNTVkMS00ZTkxLWEyYjEtYTljZGJkZGIyN2FlIiwidCI6IjY0ZjMwZDYzLTE4MjctNDlkOC05OTUxLTFkYjE3ZDA5NDllNCJ9&pageName=ReportSection
 
-2.	TABLERO DE CONTROL CONTRATACIÓN HISTÓRICA 
+2.	INFORME - CONTRATACIÓN HISTÓRICA 
 
 Integra datos de SECOP I, SECOP II y TVEC. Permite analizar de manera retrospectiva:
 
@@ -56,7 +56,7 @@ Este tablero se encuentra actualmente publicado en el siguiente enlace:
 
 https://app.powerbi.com/view?r=eyJrIjoiMjI4NDFmN2ItM2I5Yy00ZDNmLWIwMzUtMzM0ZDZmYzBjYWYyIiwidCI6IjY0ZjMwZDYzLTE4MjctNDlkOC05OTUxLTFkYjE3ZDA5NDllNCJ9 
 
-3.	TABLERO DE CONTROL – PLANES ANUALES DE ADQUISICIONES VIGENCIA ACTUAL
+3.	INFORME – PLANES ANUALES DE ADQUISICIONES VIGENCIA ACTUAL
 
 Este tablero permite comparar en tiempo real las necesidades por cada dependencia en sus PAA frente a los procesos realmente publicados en SECOP II. Entre sus visualizaciones:
 

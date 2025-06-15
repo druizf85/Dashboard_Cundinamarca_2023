@@ -1,13 +1,21 @@
 import pandas as pd
 from datetime import date
 import funciones.funciones_complementarias as fc
+from dotenv import load_dotenv
+import os
 
 ruta_archivo = "BDC.xlsx"
 fc.delete_file(ruta_archivo)
 
-base_url1 = "https://www.datos.gov.co/resource/ftd6-xejd.json"
+load_dotenv()
 
-df = fc.extract_info_api(base_url1)
+username = os.getenv("USERNAME")
+password = os.getenv("PASSWORD")
+
+base_url1 = os.getenv("BASEURL1CONTRATOS")
+
+df = fc.extract_info_api(base_url1, username, password)
+
 df_nombres = pd.read_excel('Cruces.xlsx', sheet_name='Clasificación columnas json CS2')
 
 nombres_nuevos = df_nombres.iloc[:, 0].tolist()
@@ -74,9 +82,9 @@ df_final=df_final.reset_index().drop('index', axis=1)
 
 BDCS2=df_final
 
-base_url2 = "https://www.datos.gov.co/resource/m8fx-7c93.json"
+base_url2 = os.getenv("BASEURL2CONTRATOS")
 
-df = fc.extract_info_api(base_url2)
+df = fc.extract_info_api(base_url2, username, password)
 
 df_nombres = pd.read_excel('Cruces.xlsx', sheet_name='Clasificación columnas json CS1')
 

@@ -1,0 +1,15 @@
+# Ignorar archivos .env (credenciales)
+*.env*
+
+# Ignorar carpetas de dependencias y entornos virtuales
+node_modules/
+venv/
+__pycache__/
+
+# Ignorar archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp

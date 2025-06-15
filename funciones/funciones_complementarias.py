@@ -15,9 +15,8 @@ def delete_file(filepath):
 
 # --------------------------------------------------------------------------------------------------------------- #   
 
-def extract_info_api(url):
-    username = "email@gmail.com"
-    password = "Password"
+def extract_info_api(url, username, password):
+    
     limit = 10000
     params = urlencode({"$limit": limit})
     url_read = f"{url}?{params}"
